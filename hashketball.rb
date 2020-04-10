@@ -1,6 +1,16 @@
 # Write your code here!
 def game_hash
-  obj = {:home =>{},:away =>{}}
+  obj = {
+    :home =>{
+      :team_name =>"Brooklyn Nets",
+      :colors =>["Black","White"],
+      :players =>[]
+    },
+  :away =>{
+    :team_name =>"Brooklyn Nets",
+    :colors =>["Black","White"],
+    :players =>[]
+  }}
   
   
   obj
