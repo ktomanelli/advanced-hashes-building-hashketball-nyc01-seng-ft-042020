@@ -1,6 +1,6 @@
 # Write your code here!
 def game_hash
-  obj = {}
+  obj = {:home =>{},:away =>{}}
   
   
   obj
