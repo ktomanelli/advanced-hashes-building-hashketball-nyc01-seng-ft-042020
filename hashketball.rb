@@ -66,14 +66,14 @@ def game_hash
     :players =>[
       {
           :player_name => "Jeff Adrien",
-          :number => "",
-          :shoe => "",
-          :points => "",
-          :rebounds => "",
-          :assists => "",
-          :steals => "",
-          :blocks => "",
-          :slam_dunks => "",
+          :number => 4,
+          :shoe => 18,
+          :points => 10,
+          :rebounds => 1,
+          :assists => 1,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => ,
         },
         {
           :player_name => "Bismack Biyombo",
@@ -107,7 +107,7 @@ def game_hash
           :blocks => "",
           :slam_dunks => "",
         },        {
-          :player_name => "",
+          :player_name => "Kemba Walker",
           :number => "",
           :shoe => "",
           :points => "",
